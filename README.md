@@ -2,7 +2,7 @@
 
 Thanks for using IOUO!
 
-Please use the [issue tracker](https://github.com/DontSnooze/public-iouo/issues) to add or track enhancement requests, bugs or any feedback.
+Please use the [issue tracker](https://github.com/DontSnooze/public-iouo/issues) to track todos, bugs, feature requests, and more.
 
 ---
 ### About
