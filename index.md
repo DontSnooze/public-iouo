@@ -9,7 +9,11 @@ Please use the [issue tracker](https://github.com/DontSnooze/public-iouo/issues)
 
 iOS Application: IOUO
 
+![iouo logo](docs/images/iouo.png)
+
 A Lending Management Application
+
+[See iouo in the App store](https://apps.apple.com/us/app/iouo/id326409429)
 
 Main Features:
 Keep track of anything someone owes you!
