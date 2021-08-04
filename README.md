@@ -9,7 +9,11 @@ Please use the [issue tracker](https://github.com/DontSnooze/public-iouo/issues)
 
 iOS Application: IOUO
 
+![iouo logo](https://dontsnooze.github.io/public-iouo/docs/images/iouo.png)
+
 A Lending Management Application
+
+[See iouo in the App store](https://apps.apple.com/us/app/iouo/id326409429)
 
 Main Features:
 Keep track of anything someone owes you!
@@ -27,6 +31,15 @@ Clean and smooth interface.
 With a quick glance you can easily track items borrowed!
 
 IOUO is simple and powerful!
+
+---
+### Screenshots
+
+iPhone:
+
+| | | | |
+| --- | --- | --- | --- |
+<img width="200" alt="iouo iphone screenshot 1" src="https://dontsnooze.github.io/public-iouo/docs/images/iouo_iphone_screenshot1_1242x2208bb.png"> | <img width="200" alt="iouo iphone screenshot 2" src="https://dontsnooze.github.io/public-iouo/docs/images/iouo_iphone_screenshot2_1242x2208bb.png"> | <img width="200" alt="iouo iphone screenshot 3" src="https://dontsnooze.github.io/public-iouo/docs/images/iouo_iphone_screenshot3_1242x2208bb.png"> | <img width="200" alt="iouo iphone screenshot 4" src="https://dontsnooze.github.io/public-iouo/docs/images/iouo_iphone_screenshot4_1242x2208bb.png"> |
 
 ---
 
